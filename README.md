@@ -1,1 +1,1 @@
-# Oreo
+# Oreo Binder patches for Mediatek Devices
